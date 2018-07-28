@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1474149167 source:c:\users\wangy\documents\c\calculations\main.c
+	<stdio.h>
+	<stdlib.h>
+
